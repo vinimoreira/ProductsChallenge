@@ -22,7 +22,7 @@ This project is part of a technical challenge focused to create a simple RESTful
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd Products
+   cd ProductsChallenge
    ```
 
 2. **Run the application**
